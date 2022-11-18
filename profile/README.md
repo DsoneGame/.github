@@ -8,4 +8,4 @@ Main Repositories
 
  [AO and RayFire](https://github.com/DsoneGame/Usefull-Instruments "Необязательная подсказка")
  
- [Техническая документация ](https://app.clickup.com/20434836/v/dc/kfkwm-27661 "Необязательная подсказка")
+ [Документация ](https://app.clickup.com/20434836/docs "Необязательная подсказка")
